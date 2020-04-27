@@ -2,4 +2,7 @@
 
 An iOS and Android app made with flutter.
 
-![](login.gif)![](set_conds.gif)
+![](login (2).gif)![](set_conds.gif)
+
+![](gen.gif)
+![](lyrics.gif)
